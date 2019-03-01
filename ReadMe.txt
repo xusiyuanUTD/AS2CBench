@@ -1,16 +1,10 @@
-===================================================================================
-				AS2CBENCH v.1.0
-===================================================================================
 
 AS2CBENCH stands for Accelerated Synthesizable SystemC Benchmark suite.
 It is a accelerated version of S2CBENCH .S2CBENCH stands for Synthesizable SystemC 
 Benchmark suite.It is a open sourceSystemC benchmarks created to help designers evaluate 
-the QoR of state of the art HLS Tools. 
+the QoR of state of the art HLS Tools. For more details please visit our publications:
 
-Most of the work has been done by the DARClab at the Hong Kong Polytechnic Universities
-Department of Electronic and Information Engineering (EIE) 
-DARClab =Design Automation and Reconfigurable Computing Laboratory - www.eie.polyu.edu.hk/~schaferb/darclab
-
+S. Xu, J. Chen and B. Carrion Schafer, HW/SW Co-design Experimental Framework using Configurable SoC, International Conference on Reconfigurable Computing and FPGAs (ReConFig), pp.1-6, 2017.
 
 AS2CBench is distributed in the hope that it will be useful. AS2CBench is free software and hardware; 
 you can redistribute it and/or modify it, but please remember but WITHOUT ANY WARRANTY; without even the 
